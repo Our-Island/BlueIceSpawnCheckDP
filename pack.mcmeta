@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Simple data pack \"disabling\" mob spawning near blue ice over y=128.",
+    "min_format": 88.0,
+    "max_format": 94.1
+  }
+}
